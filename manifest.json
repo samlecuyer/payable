@@ -1,0 +1,9 @@
+{
+  "name": "Payable",
+  "version": "0.2.1",
+  "description": "An extension to generate test credit card info for client-side validation",
+  "background_page" : "background.html",
+  "permissions": [
+  	"contextMenus"
+  ]
+}
